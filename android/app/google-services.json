@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "961100414781",
+    "firebase_url": "https://card-scanner-dcd4a.firebaseio.com",
+    "project_id": "card-scanner-dcd4a",
+    "storage_bucket": "card-scanner-dcd4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961100414781:android:a602246ad515a99a",
+        "android_client_info": {
+          "package_name": "io.teneocto.flutt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961100414781-om8so236hfn5mirg4nl2ompqq8un92ak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKVcvTvrqV2doB2088Z7mv0RL8D4RYNjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961100414781-om8so236hfn5mirg4nl2ompqq8un92ak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961100414781:android:670f891da550e233",
+        "android_client_info": {
+          "package_name": "io.teneocto.mlkit_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961100414781-om8so236hfn5mirg4nl2ompqq8un92ak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKVcvTvrqV2doB2088Z7mv0RL8D4RYNjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961100414781-om8so236hfn5mirg4nl2ompqq8un92ak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
